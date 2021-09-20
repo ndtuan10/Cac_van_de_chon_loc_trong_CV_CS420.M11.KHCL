@@ -1,4 +1,4 @@
-# Selected Topics in Computer Vision -CS420.M11.KHCL
+# Selected Topics in Computer Vision - CS420.M11.KHCL
 
  ![uitlogo](https://portal.uit.edu.vn/Styles/profi/images/logo186x150.png)
 
